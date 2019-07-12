@@ -1,4 +1,4 @@
-# Những thuật ngữ cơ bản về AI và Machine Learning (Phần 1)
+# Những thuật ngữ cơ bản về AI và Machine Learning (P1)
 ## A
 - ### Algorithm
 
@@ -75,4 +75,12 @@ Thị giác máy tính là một môn học khoa học liên quan đến lý thu
 - ### Deep learning
 **_Deep learning_** là một phương pháp của ML. Nó cho phép chúng ta huấn luyện một AI có thể dự đoán được các đầu ra dựa vào một tập các đầu vào. Cả hai phương pháp có giám sát và không giám sát đều có thể sử dụng để huấn luyện. Deep Learning là một thuật toán dựa trên một số ý tưởng từ não bộ tới việc tiếp thu nhiều tầng biểu đạt, cả cụ thể lẫn trừu tượng, qua đó làm rõ nghĩa của các loại dữ liệu. Deep Learning được ứng dụng trong nhận diện hình ảnh, nhận diện giọng nói, xử lý ngôn ngữ tự nhiên.Điểm đặc biệt của Deep Learning là tính chính xác dựa vào lượng dữ liệu, lượng dữ liệu có thể có kích thước khổng lồ mà không bị hạn chế.
  ![alt_text](https://cdn-images-1.medium.com/max/1400/0*dKYLdxDWbZIt609i)
+ 
+ ## Tài liệu tham khảo
+- https://vi.wikipedia.org/wiki/Wikipedia
+- https://viblo.asia/p/su-dung-cnn-trong-bai-toan-nhan-dang-mat-nguoi-phan-1-eW65GoOP5DO
+- https://medium.com/@josephcardillo/how-to-add-gifs-to-your-github-readme-89c74da2ce47
+- https://blog.duyet.net/2016/02/deep-learning-la-gi.html#.XShVNOszbIU
+
+
 
