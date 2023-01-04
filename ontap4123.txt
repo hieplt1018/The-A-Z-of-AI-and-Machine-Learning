@@ -1,1 +1,2 @@
 Phan 1: Test flow 1 nguoi (nhanh master)
+Phan 2: Day la nhanh master nen duoc uu tien.
