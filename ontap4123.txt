@@ -1,2 +1,4 @@
 Phan 1: Test flow 1 nguoi (nhanh master)
-Phan 2: Day la nhanh master nen duoc uu tien.
+Github that thu vi
+Phan 1: Test flow  1 nguoi (nhanh master)
+Thay doi phan nay cho conflict nhe
