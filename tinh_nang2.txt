@@ -1,2 +1,6 @@
 day la tinh nang 2, Hiep vua sua.
+sua de thay conflic.
+Them dong nay nua cho no chac keo` co conflic
 test git add (tren 2 file)
+them dong 1
+them dong 2
