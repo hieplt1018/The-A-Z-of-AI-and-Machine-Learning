@@ -1,4 +1,2 @@
-helloo
-hi
-aa
+day la tinh nang 2, Hiep vua sua.
 test git add (tren 2 file)
