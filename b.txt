@@ -1,4 +1,0 @@
-helloo
-hi
-aa
-test git add (tren 2 file)
